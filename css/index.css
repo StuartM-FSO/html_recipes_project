@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: pink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.link_box {
+    background-color: grey;
+    width: 70%;
+    padding: 10px;
+    border: 10px solid blueviolet;
+}
