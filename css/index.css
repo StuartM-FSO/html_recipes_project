@@ -1,6 +1,7 @@
 body {
     background-color: black;
     color: white;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 a {
@@ -13,10 +14,13 @@ h1, h2, h3 {
 }
 
 
-
-.link_box {
+.box {
     background-color: grey;
     width: 70%;
     padding: 10px;
     border: 10px solid blueviolet;
+}
+
+.description {
+    width: 70%;
 }
